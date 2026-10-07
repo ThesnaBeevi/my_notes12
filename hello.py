@@ -1,3 +1,5 @@
 print("Hello, Git")
 print("Learning git step by step")
 print("Its really fun")
+print(" more time in git")
+print("Thats more fun")
